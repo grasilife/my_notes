@@ -1,6 +1,7 @@
 - [JavaScript](osimgp.md)
   - [浅拷贝和深拷贝](tqowdy.md)
 - [算法](zlyzcw)
+  - [比较](ec5cdk.md)
   - [去重](kv4220.md)
 - [ECMAScript 6(2015)](fmthz3)
   - [ES5和ES6函数的写法的不同](zspnhe.md)
