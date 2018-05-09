@@ -4,7 +4,7 @@
   - [ES5和ES6函数的写法的不同](zspnhe.md)
 - [ECMAScript 7(2016)](cyckx7)
 - [React](how-to-write.md)
-  - [创建一个组件](deaqkq)
+  - [创建一个组件](deaqkq.md)
   - [React 顶层 API](nc8m3g)
 - [Redux](zhat4w)
   - [基本概念](xprytu.md)
