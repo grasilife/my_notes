@@ -24,6 +24,8 @@
 - [Github ](agqsng)
 - [Git](kmtkvc)
 - [SVN](wpbnxi)
+- [3D或2D渲染](iqly3a)
+  - [Canvas or SVG？](ish1x0.md)
 - [Mapbox](hrgiqt)
 - [MapD ](mnz7oh)
 - [Leaflet ](bvyzn9)
