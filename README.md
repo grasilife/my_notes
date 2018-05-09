@@ -7,7 +7,7 @@
 - [ECMAScript 7(2016)](cyckx7)
 - [React](how-to-write.md)
   - [创建一个组件](deaqkq.md)
-  - [React 顶层 API](nc8m3g)
+  - [React 顶层 API](nc8m3g.md)
 - [Redux](zhat4w)
   - [基本概念](xprytu.md)
 - [MobX](qbi73h)
