@@ -37,6 +37,7 @@ function(x, y) {
     * 都是 NaN
     * 都是除零和 NaN 外的其它同一个数字
     * 可以看出Object.is可以对基本数据类型:null,undefined,number,string,boolean做出非常精确的比较，但是对于引用数据类型是没办法直接比较的。
-__* *__
-__*参考资料:*__[http://www.imweb.io/topic/598973c2c72aa8db35d2e291](http://www.imweb.io/topic/598973c2c72aa8db35d2e291)
-
+__* *__
+参考资料:
+[http://www.imweb.io/topic/598973c2c72aa8db35d2e291](http://www.imweb.io/topic/598973c2c72aa8db35d2e291)
+[http://www.jstips.co/zh\_cn/javascript/why-you-should-use-Object.is()-in-equality-comparison/](http://www.jstips.co/zh_cn/javascript/why-you-should-use-Object.is()-in-equality-comparison/)
