@@ -1,7 +1,7 @@
 - [JavaScript](osimgp.md)
   - [浅拷贝和深拷贝](tqowdy.md)
   - [处理 Websocket 超时问题](vqbu30.md)
-  - [readyState详解](lnguqr)
+  - [readyState详解](lnguqr.md)
 - [算法](zlyzcw)
   - [比较](ec5cdk.md)
   - [去重](kv4220.md)
