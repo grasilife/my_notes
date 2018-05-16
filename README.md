@@ -1,5 +1,6 @@
 - [HTML和CSS](fykzeg.md)
   - [CSS 解决img底部空白间隙](lfsz7e.md)
+  - [CSS3 @font-face属性](ne2i44.md)
   - [CSS3 超实用属性：pointer-events](nhpby1.md)
 - [JavaScript](osimgp.md)
   - [浅拷贝和深拷贝](tqowdy.md)
