@@ -58,3 +58,4 @@
 - [开源项目](enaeqt.md)
 - [Chrome Extensions](uvl6uv.md)
 - [Linux](hntiap.md)
+  - [gzip压缩前端文件](aav1nk.md)
